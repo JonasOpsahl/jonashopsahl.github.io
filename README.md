@@ -5,7 +5,6 @@
 - **Phone:** [+47 955 54 991](tel:+4795554991)
 - **Email:** [jonashopsahl@gmail.com](mailto:jonashopsahl@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jonas-heen-opsahl-54043b244](https://www.linkedin.com/in/jonas-heen-opsahl-54043b244/)
-- **Location:** Hans tanks gate 3, 5008, Bergen, Norge
 
 ### Personal Information
 - **Date of birth:** 07.04.2002
@@ -96,19 +95,3 @@ I am a hungry, eager and engaged 23 year old student who loves new challenges. I
 
 - **Norwegian** 
 - **English**
-
----
-
-### References
-
-**Sverre Villanger**
-- McDonald's Franchisee 
-- T: [474 52 189](tel:+4747452189) 
-
-**Vivian Blomvik**
-- Restaurant leader McDonalds Moa
-- T: [934 97 719](tel:+4793497719) 
-
-**Ruben Jørgensen**
-- Supervisor Rama AS
-- T: [930 12 661](tel:+4793012661)
