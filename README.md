@@ -52,7 +52,7 @@ I am a hungry, eager and engaged 23 year old student who loves new challenges. I
 
 **Developer (Summer internship)** @ Eviny Fornybar, Bergen
 *june 2025 - august 2025*
-**Technologies:** Python, Azure, Databricks, Nix/NixOS, Grafana, Terraform, Git, NATS, Redpanda, Agile
+- **Technologies:** Python, Azure, Databricks, Nix/NixOS, Grafana, Terraform, Git, NATS, Redpanda, Agile
 
 **Shift manager** @ McDonald's Torgallmenningen (RAMA as), Bergen
 *july 2022 - june 2025*
