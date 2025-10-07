@@ -19,6 +19,20 @@ I am a hungry, eager and engaged 23 year old student who loves new challenges. I
 
 ---
 
+### Education
+
+**MSc Software Engineering**
+*University of Bergen/HVL, Bergen (2025-2027)*
+- Coursework includes Algorithms and dynamic programming, Advanced software architecture, Image processing, and Semantics in modern programming languages.
+
+**BSc Informatics (Data science)**
+*University of Bergen, Bergen (2025)* 
+- Coursework included Machine learning, Data science, Object oriented programming, Mathematics, Software development, and Databases.
+
+**Specialization in general studies (science)**
+*Fagerlia Higher school, Ålesund (2021)* 
+- Subjects: Mathematics, Physics, Social economy.
+
 ### Skill Set
 
 - **Programmings languages and Frameworks:**
@@ -65,22 +79,6 @@ I am a hungry, eager and engaged 23 year old student who loves new challenges. I
 - The game involves a player-controlled laser cannon shooting waves of aliens, with gameplay speed increasing as aliens are eliminated.
 - Developed by a team of four students.
 - **GitLab:** [https://git.app.uib.no/gruppe404/alien-invaders](https://git.app.uib.no/gruppe404/alien-invaders)
-
----
-
-### Education
-
-**MSc Software Engineering**
-*University of Bergen/HVL, Bergen (2025-2027)*
-- Coursework includes Algorithms and dynamic programming, Advanced software architecture, Image processing, and Semantics in modern programming languages.
-
-**BSc Informatics (Data science)**
-*University of Bergen, Bergen (2025)* 
-- Coursework included Machine learning, Data science, Object oriented programming, Mathematics, Software development, and Databases.
-
-**Specialization in general studies (science)**
-*Fagerlia Higher school, Ålesund (2021)* 
-- Subjects: Mathematics, Physics, Social economy.
 
 ---
 
